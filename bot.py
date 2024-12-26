@@ -2,6 +2,7 @@
 # Date and time: 12/26/2024 09:14 AM
 # Day: Thursday
 # Description : chatbot for discord using google gemini api
+# github: https://github.com/MRXz194   Discord: kz5198
 import os
 import json
 import discord
